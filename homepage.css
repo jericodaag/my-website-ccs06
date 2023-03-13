@@ -1,0 +1,284 @@
+.homepage-container {
+  min-height: 100vh;
+}
+.homepage-homepage {
+  width: 100%;
+  height: 1011px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: flex-end;
+  border-color: transparent;
+  background-color: rgba(0, 0, 0, 1);
+}
+.homepage-bgimage {
+  top: 0px;
+  left: 3px;
+  width: 1900px;
+  height: 1023px;
+  position: absolute;
+  border-color: transparent;
+}
+.homepage-text {
+  top: 989px;
+  left: 913px;
+  color: rgba(255, 255, 255, 1);
+  width: 89px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.homepage-searchlogo {
+  top: 101px;
+  left: 182px;
+  width: 18px;
+  height: 19px;
+  position: absolute;
+}
+.homepage-moresymbol {
+  top: 94px;
+  left: 63px;
+  width: 31px;
+  height: 31px;
+  position: absolute;
+}
+.homepage-text02 {
+  top: 103px;
+  color: rgba(255, 255, 255, 1);
+  right: 278px;
+  width: 64px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Spectral SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.homepage-text04 {
+  top: 103px;
+  color: rgba(255, 255, 255, 1);
+  right: 161px;
+  width: 100px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Spectral SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.homepage-text06 {
+  top: 103px;
+  color: rgba(255, 255, 255, 1);
+  right: 26px;
+  width: 116px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Spectral SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.homepage-text08 {
+  top: 103px;
+  left: 1468px;
+  color: rgba(255, 255, 255, 1);
+  width: 86px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Spectral SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.homepage-text10 {
+  top: 294px;
+  left: 620px;
+  color: rgba(255, 255, 255, 1);
+  width: 667px;
+  height: auto;
+  position: absolute;
+  font-size: 76px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Scheherazade New;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.homepage-text12 {
+  top: 481px;
+  left: 691px;
+  color: rgba(255, 255, 255, 1);
+  width: 518px;
+  height: auto;
+  position: absolute;
+  font-size: 28px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Spectral SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.homepage-image6 {
+  top: 154px;
+  right: 0px;
+  width: 420px;
+  height: 594px;
+  position: absolute;
+  border-color: transparent;
+}
+.homepage-image5 {
+  right: 6px;
+  width: 393px;
+  bottom: 18px;
+  height: 425px;
+  position: absolute;
+  border-color: transparent;
+}
+.homepage-image4 {
+  top: 482px;
+  right: 202px;
+  width: 321px;
+  height: 401px;
+  position: absolute;
+  border-color: transparent;
+}
+.homepage-image3 {
+  top: 352px;
+  left: 1px;
+  width: 442px;
+  height: 580px;
+  position: absolute;
+  border-color: transparent;
+}
+.homepage-image2 {
+  left: 16px;
+  width: 440px;
+  bottom: 0px;
+  height: 443px;
+  position: absolute;
+  border-color: transparent;
+}
+.homepage-image1 {
+  left: -3px;
+  width: 219px;
+  bottom: -13px;
+  height: 324px;
+  position: absolute;
+  border-color: transparent;
+}
+.homepage-facebookicon {
+  top: 985px;
+  right: 69px;
+  width: 26px;
+  height: 26px;
+  position: absolute;
+}
+.homepage-twittericon {
+  top: 990px;
+  right: 42px;
+  width: 20px;
+  height: 19px;
+  position: absolute;
+}
+.homepage-igicon {
+  top: 990px;
+  right: 16px;
+  width: 19px;
+  height: 19px;
+  position: absolute;
+}
+.homepage-text14 {
+  top: 97px;
+  left: 101px;
+  color: rgba(255, 255, 255, 1);
+  width: 60px;
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Spectral SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.homepage-text16 {
+  top: 98px;
+  left: 207px;
+  color: rgba(255, 255, 255, 1);
+  width: 85px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Spectral SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.homepage-logoicon {
+  top: 86px;
+  left: 847px;
+  width: 210px;
+  height: 210px;
+  position: absolute;
+  border-color: transparent;
+}
